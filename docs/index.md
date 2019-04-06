@@ -1,17 +1,3 @@
-# Welcome to MkDocs
+# Welcome to deepnet formations
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Welcom to deepnet formations. This is a comprehensive list of ressources to get started with deep learning, from learning and understanding theory, building a good intuition to implementing your first networks, without forgetting the obligatory installation step. Good luck on your journey !
