@@ -1,0 +1,1 @@
+[![Documentation Status](https://readthedocs.org/projects/deepnet/badge/?version=latest)](https://deepnet.readthedocs.io/?badge=latest)
