@@ -1,2 +1,17 @@
 site_name: deepnet formations
 theme: readthedocs
+nav:
+  - Home: index.md
+  - Courses:
+    - Coding: courses/code.md
+    - Deep learning: courses/deeplearning.md
+  - Installs:
+    - Python: installs/python.md
+  - Coding tools:
+    - Git: coding_tools/git.md
+    - Notebook: coding_tools/notebook.md
+    - Working environments: coding_tools/working_environments.md
+  - Finding what you need:
+    - dataset: finding_what_you_need/dataset.md
+    - Algorithms: finding_what_you_need/Algorithms.md
+    - State of the Art: finding_what_you_need/State_of_the_Art.md
