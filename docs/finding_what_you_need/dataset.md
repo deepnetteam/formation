@@ -6,6 +6,11 @@ Dataset
 
 Google dataset browse the entire web, which may render all following links redundant. Yet you may find yourself in the situation where you want to use different, more specialized, tools. If this is the case, the rest of this page is for you.
 
+## [AWS Open Data](https://registry.opendata.aws/)
+> This registry exists to help people discover and share datasets that are available via AWS resources.
+
+Short (~120) list of datasets, but each one comes with usage examples (i.e. github).
+
 ## [Kaggle dataset](https://www.kaggle.com/datasets)
 Browse datasets from kaggle with this straightforward tool, that does what it says. Although kaggle datasets are likely to come up on Google Dataset, you can limit your search to a website you trust, with an nice UI displaying information such date of upload, dataset size, type of files, etc.
 
