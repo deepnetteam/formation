@@ -12,6 +12,6 @@ nav:
     - Notebook: coding_tools/notebook.md
     - Working environments: coding_tools/working_environments.md
   - Finding what you need:
-    - dataset: finding_what_you_need/dataset.md
+    - Dataset: finding_what_you_need/dataset.md
     - Algorithms: finding_what_you_need/Algorithms.md
     - State of the Art: finding_what_you_need/State_of_the_Art.md
